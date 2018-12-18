@@ -1,9 +1,16 @@
+# Selecting columns with visual block mode
+
+ > [Vimcast epsode][2]
+
+ - `ctrl+v` enter visual block mode
+ - `I` To enter insert mode and start edit
+
 # Using the changelist and jumplist
 
- - `g;`, `g,` Go back/forward lastest edit cursor (back/forward where the last cursor was edited)
- - `:changes` List all changes on current file
- - `ctrl+o` , `ctrl+i` Moving betwwen jumps
- - `:jumps` List all jumps options
+ > - `g;`, `g,` Go back/forward lastest edit cursor (back/forward where the last cursor was edited)
+ > - `:changes` List all changes on current file
+ > - `ctrl+o` , `ctrl+i` Moving betwwen jumps
+ > - `:jumps` List all jumps options
 
 # Buffers
 
@@ -21,3 +28,4 @@
  - `#h` The `h` Indicated that is not loaded into window
 
 [1]: http://vimcasts.org/episodes/working-with-buffers/
+[2]: http://vimcasts.org/episodes/selecting-columns-with-visual-block-mode/
