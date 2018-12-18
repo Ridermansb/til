@@ -1,3 +1,11 @@
+# Using the changelist and jumplist
+
+ - `g;`, `g,` Go back/forward lastest edit cursor (back/forward where the last cursor was edited)
+ - `:changes` List all changes on current file
+ - `ctrl+o` , `ctrl+i` Moving betwwen jumps
+ - `:jumps` List all jumps options
+
+# Buffers
 
 `:ls` List all buffers
 `:bn` / `:bp` Move to the next/previous buffer
