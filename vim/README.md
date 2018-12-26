@@ -1,3 +1,8 @@
+# Shortcuts
+
+ - `gv` Reselect last visual selection.
+
+
 # Selecting columns with visual block mode
 
  > [Vimcast episodes][2]
