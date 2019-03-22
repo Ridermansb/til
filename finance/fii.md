@@ -4,6 +4,12 @@
  - Amortização = Quando o gestor escolher por exemplo com a venda de algum imovel distribuir o valor ao invés de reenvestir
  - RMG = Renda Maxima Garantida (estão pagando uma renda fixa do proprio caixa, não originada dos alugueis
 
+## Como avaliar
+
+valor cota / valor patrimonial = (proximo de 1 é o ideial, indica se ta caro ou barato)
+Valor patrimonial > 2bi
+Liquidez: > 300mil (movimentação diária)
+Rendimento Mensal que acompanhe minimo a SELIC
 
 **TOP FII**
 
@@ -13,8 +19,9 @@
  - VRTA11, KNIP11, VISC11, HGLG11, GGRC11
  - BCFF11 (BTG Pactual, Fundo de Fundo), HGBS11, KNRI11
  - SDIL11 BBFI11, FCFL11, AGCX11
-
-
+ - KNCR11 (2bi patrimonio) 2x, BRCR11, HGBS11
+ - MXRF11 (recebíveis papel)
+ - HGRE11, ABCP11 (um shopping apenas)
 
 ## Tipos de fundo: 
 
@@ -37,4 +44,5 @@ guiainvest
 trade map - instalar app
 IFIX: Fundo de fundo (Indice)
 
- 
+[0]: http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/fiis-listados/
+[1]: https://www.scanfii.com.br/
