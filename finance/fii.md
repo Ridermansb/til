@@ -13,6 +13,8 @@ Rendimento Mensal que acompanhe minimo a SELIC
 
 **TOP FII**
 
+> You can check other suggestions on [clubefii][3]
+
  - FIGS11, MFII11, UBSR11, BPFF11, FEXC11
  - HGRE11, (adm 1%, 1b, 6,6%a.a.) ,HGLG11 (0,6%adm), HGBS11 (0.6$adm), KNRI11 
  - MXRF11 (XP), ABCP11, SAAG11 (Rio Bravo), VISC11 (Vinci) e  MALL11 (Brasil Plural). 
@@ -46,3 +48,4 @@ IFIX: Fundo de fundo (Indice)
 
 [0]: http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/fiis-listados/
 [1]: https://www.scanfii.com.br/
+[2]: https://www.clubefii.com.br/fundos_imobiliarios_ranking?ord_pad=var_cot_mes_pas_dis&chk_cot_val_atu=true&chk_val_pat_ult=false&chk_val_por_m2=false&chk_val_mer=false&chk_val_por_m2_mer=false&chk_val_des_ipo=false&chk_val_dis_des_ipo=false&chk_val_mes_atu=false&chk_val_mes_atu_dis=false&chk_val_mes_pas=true&chk_val_mes_pas_dis=true&chk_val_1_ano=false&chk_val_dis_1_ano=false&chk_val_ano_atu=false&chk_val_dis_ano_atu=false&chk_val_ano_pas=false&chk_val_dis_ano_pas=false&chk_val_ult_5_ano=false&chk_val_dis_ult_5_ano=false&chk_vpa=true&chk_ups=false&chk_liq_dia_20_med=false&chk_ups_ren=false&chk_vac_fin=false&chk_vac_fis=false&chk_ger_yield_1_mes=true&chk_ger_yield_3_mes=false&chk_ger_yield_6_mes=false&chk_ger_yield_12_mes=false&chk_par_ifx=false&chk_fil_fii_seg=false&chk_fil_fii_ifx=true&fil_cmb_seg=&fil_cmb_adm=&fil_cmb_ges=&max_n=10
