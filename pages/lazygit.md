@@ -1,0 +1,1 @@
+- > [CLI tool](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#features) to work with git
