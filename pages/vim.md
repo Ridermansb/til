@@ -1,0 +1,11 @@
+## Review TIL
+	- {{cards [[vim]]}}
+		- Summary: 9 items, 9 review counts [[Jul 12th, 2024]]
+			- Remembered:   1 (11%)
+			- Forgotten :   8 (88%)
+		- Summary: 1 items, 1 review counts [[Jul 12th, 2024]]
+			- Remembered:   1 (100%)
+			- Forgotten :   0 (0%)
+		- Summary: 2 items, 2 review counts [[Jul 12th, 2024]]
+			- Remembered:   1 (50%)
+			- Forgotten :   1 (50%)
