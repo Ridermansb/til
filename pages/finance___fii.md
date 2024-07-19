@@ -1,0 +1,49 @@
+### Imported
+collapsed:: true
+	- Alguns tem participacao na receita dessa forma respondem mais ráído
+	- Shoppings, galpões
+	- Dividend yield como calcular = Dividend yield = rendimento / preco
+	- Amortização = Quando o gestor escolher por exemplo com a venda de algum imovel distribuir o valor ao invés de reenvestir
+	- RMG = Renda Maxima Garantida (estão pagando uma renda fixa do proprio caixa, não originada dos alugueis
+	- ## Como avaliar
+	  
+	  valor cota / valor patrimonial = (proximo de 1 é o ideial, indica se ta caro ou barato)
+	  Valor patrimonial > 2bi
+	  Liquidez: > 300mil (movimentação diária)
+	  Rendimento Mensal que acompanhe minimo a SELIC
+	  
+	  **TOP FII**
+	  
+	  > You can check other suggestions on [clubefii][3]
+	- FIGS11, MFII11, UBSR11, BPFF11, FEXC11
+	- HGRE11, (adm 1%, 1b, 6,6%a.a.) ,HGLG11 (0,6%adm), HGBS11 (0.6$adm), KNRI11
+	- MXRF11 (XP), ABCP11, SAAG11 (Rio Bravo), VISC11 (Vinci) e MALL11 (Brasil Plural).
+	- VRTA11, KNIP11, VISC11, HGLG11, GGRC11
+	- BCFF11 (BTG Pactual, Fundo de Fundo), HGBS11, KNRI11
+	- SDIL11 BBFI11, FCFL11, AGCX11
+	- KNCR11 (2bi patrimonio) 2x, BRCR11, HGBS11
+	- MXRF11 (recebíveis papel)
+	- HGRE11, ABCP11 (um shopping apenas)
+	- ## Tipos de fundo:
+	- Fundos de Renda: Receita vinda do aluguel
+	- Fundo de fundo: Fundo compra varios outros fundos
+	  
+	  > Multi Multi Multi = Multi inquilino, multi imoveis, e multi regiões
+	  
+	  **Não apenas alugueis, mas também valorizações**
+	- HGLH11 (6% dividend yield, muito baixo), porem valorizaçào mais de 12%
+	- KNCR11 valorização 10%
+	- MXRF11 15%
+	  
+	  Olhar o preço, se ta caro... preço da cota x e valor patrimonial da cota, Se tiver 10% acima ou abaixo está no preço
+	  Analisar se o gestor guarda dinheiro para investir mais, ou se distribui todo o lucro
+	  Olhar fundos grandes, muilti ativos, muilti inquilinos
+	  Gestão ativa = Gestor pode tomar decisões, outros casos teria que ter assembléia
+	  
+	  guiainvest
+	  trade map - instalar app
+	  IFIX: Fundo de fundo (Indice)
+	- ### Links úteis
+	- [FIIs Listados](http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/fiis-listados/)
+	- [ScanFII](https://www.scanfii.com.br/)
+	- [RANKING GERAL DE FUNDOS IMOBILIÁRIOS](https://www.clubefii.com.br/fundos_imobiliarios_ranking?ord_pad=var_cot_mes_pas_dis&chk_cot_val_atu=true&chk_val_des_ipo=false&chk_val_dis_des_ipo=false&chk_val_mes_atu=false&chk_val_mes_atu_dis=false&chk_val_mes_pas=true&chk_val_mes_pas_dis=true&chk_val_1_ano=false&chk_val_dis_1_ano=false&chk_val_ano_atu=false&chk_val_dis_ano_atu=false&chk_val_ano_pas=false&chk_val_dis_ano_pas=false&chk_val_ult_5_ano=false&chk_val_dis_ult_5_ano=false&chk_val_ult_10_ano=false&chk_val_dis_ult_10_ano=false&chk_vpa=true&chk_ups=true&chk_liq_dia_20_med=false&chk_ups_ren=false&chk_vac_fin=false&chk_vac_fis=false&chk_yie_ren_1_mes=true&chk_yie_ren_3_mes=true&chk_yie_ren_6_mes=true&chk_yie_ren_12_mes=true&chk_par_ifx=false&chk_fil_fii_seg=false&chk_fil_fii_ifx=true&fil_cmb_seg=&fil_cmb_adm=&fil_cmb_ges=&max_n=10)
