@@ -1,0 +1,4 @@
+- {{cards <% current page %>}}
+	- Summary: 1 items, 1 review counts [[Jul 20th, 2024]]
+		- Remembered:   1 (100%)
+		- Forgotten :   0 (0%)
