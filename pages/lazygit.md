@@ -1,3 +1,5 @@
 - > [CLI tool](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#features) to work with git
-
-
+- {{cards <% current page %>}}
+	- Summary: 1 items, 1 review counts [[Jul 22nd, 2024]]
+		- Remembered:   1 (100%)
+		- Forgotten :   0 (0%)
